@@ -1,0 +1,7 @@
+{
+  "backend": {
+    "generator": "nexus-schema",
+    "onDelete": true,
+    "graphql": true
+  }
+}
