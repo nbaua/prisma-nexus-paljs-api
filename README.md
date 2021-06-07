@@ -1,6 +1,6 @@
-## DB
+## For DB Setup
 
-We added `sqlite` as db provider in `schema.prisma` you can change it to your custom db provider
+Added `sqlite` as db provider in `schema.prisma` you can change it to your custom db provider
 
 after an update your `schema.prisma` run
 
@@ -18,9 +18,10 @@ yarn generate
 pal g
 yarn dev
 ```
+## Run Application
 
 - build prisma client
 - build crud system
 - start dev server
 
-`Good work`
+[Quick Tutorial](https://github.com/nbaua/prisma-nexus-paljs-api/blob/master/tutorial/tutorial.MD)
